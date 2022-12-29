@@ -1,13 +1,13 @@
 {"Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "IRON",
       "select_backup_ads":"null",
-      "main_ads_banner": "ca",
-      "main_ads_intertitial":"ca",
+      "main_ads_banner": "DefaultBanner",
+      "main_ads_intertitial":"DefaultInterstitial",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "interval_intertitial": 2,
-      "initialize_sdk":"",
+      "initialize_sdk":"17fc1937d",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
