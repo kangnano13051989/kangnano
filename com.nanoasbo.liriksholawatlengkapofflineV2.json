@@ -1,0 +1,78 @@
+{
+   "apps": [
+      {
+         "status": 1,
+         "redirect_url": "",
+         "privacy_policy_url": "https://nanoasbo.wordpress.com/2022/10/22/lirik-sholawat-qosidah-offline/",
+         "user_agent": "",
+         "navigation_drawer": true,
+         "navigation_icon_solid_color": false,
+         "geolocation": false,
+         "webview_cache": true,
+         "open_link_in_external_browser": false,
+         "enable_rtl_mode": false,
+         "enable_exit_dialog": true,
+         "enable_vpn_access": false,
+         "enable_dark_mode_as_default_theme": false,
+         "enable_app_protection": false,
+         "base64_license_key": ""
+      }
+   ],
+   "menus": [
+      {
+         "name": "Lirik Sholawat",
+         "type": "url",
+         "icon": "https://raw.githubusercontent.com/kangnano13051989/liriksholawathadroh/main/web/images/1.png",
+         "url": "https://htmlpreview.github.io/?raw.githubusercontent.com/kangnano13051989/liriksholawathadroh/main/web/index.html",
+         "url_dark": "",
+         "toolbar": true
+      }
+   ],
+   "ads": [
+      {
+         "ad_status": 1,
+         "main_ad": "admob",
+         "backup_ad": "none",
+         "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+         "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+         "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+         "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+         "ad_manager_banner_unit_id": "",
+         "ad_manager_interstitial_unit_id": "",
+         "ad_manager_native_unit_id": "",
+         "ad_manager_app_open_unit_id": "",
+         "fan_banner_unit_id": "",
+         "fan_interstitial_unit_id": "",
+         "fan_native_unit_id": "",
+         "startapp_app_id": "0",
+         "unity_game_id": "",
+         "unity_banner_placement_id": "",
+         "unity_interstitial_placement_id": "",
+         "applovin_banner_unit_id": "0",
+         "applovin_interstitial_unit_id": "0",
+         "applovin_native_manual_unit_id": "0",
+         "applovin_open_ad_unit_id": "0",
+         "applovin_banner_zone_id": "0",
+         "applovin_interstitial_zone_id": "0",
+         "ironsource_app_key": "",
+         "ironsource_banner_id": "",
+         "ironsource_interstitial_id": "",
+         "interstitial_ad_interval": 3,
+         "native_ad_style": "medium",
+         "show_banner_ad": true,
+         "show_interstitial_ad": true,
+         "show_native_ad_on_drawer_menu": true,
+         "show_native_ad_on_exit_dialog": true,
+         "show_open_ad_on_app_start": true,
+         "show_open_ad_on_app_resume": true
+      }
+   ],
+   "more_apps": [
+      {
+         "id": 1,
+         "title": "",
+         "image": "",
+         "url": ""
+      }
+   ]
+}
